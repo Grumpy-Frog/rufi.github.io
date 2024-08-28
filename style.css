@@ -452,7 +452,7 @@ ul li .descr::before {
     grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     gap: 20px;
     padding: 20px;
-    background-color: #238c42;
+    background-color: #028329;
     border-radius: 15px;
     margin: 40px auto;
     max-width: 1000px;
