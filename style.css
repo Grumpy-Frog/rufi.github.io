@@ -209,9 +209,9 @@ span {
 
 .typing-text span::after {
   content: "";
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0);
   position: absolute;
-  width: calc(100% + 8px);
+  width: calc(100% + 1px);
   height: 100%;
   border-left: 3px solid black;
   right: -8;
@@ -522,3 +522,7 @@ ul li .descr::before {
         font-size: 0.9rem;
     }
 }
+
+
+/* ACHIEVEMENTS */
+
